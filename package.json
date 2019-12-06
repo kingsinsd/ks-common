@@ -1,0 +1,19 @@
+{
+  "name": "ks-common",
+  "version": "1.0.0",
+  "description": "This is a common function for js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kingsinsd/ks-common.git"
+  },
+  "author": "kingsinsd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kingsinsd/ks-common/issues"
+  },
+  "homepage": "https://github.com/kingsinsd/ks-common#readme"
+}
